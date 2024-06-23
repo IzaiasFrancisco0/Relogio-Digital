@@ -1,0 +1,26 @@
+{
+    "header": {
+      "title": "Aplicativo de Citações",
+      "subtitle": "Citações inspiradoras de autores famosos"
+    },
+    "frases": [
+      {
+        "texto": "A máquina analítica não tem pretensões de criar qualquer coisa. Ela pode fazer qualquer coisa que soubermos como ordená-la a realizar.",
+        "autor": "Ada Lovelace"
+      },
+      {
+        "texto": "A simplicidade é uma grande virtude, mas requer trabalho duro para alcançá-la e educação para apreciá-la. E para piorar as coisas: a complexidade vende melhor.",
+        "autor": "Edsger Dijkstra"
+      },
+      {
+        "texto": "Nossas dúvidas são traidoras e nos fazem perder o que, com frequência, poderíamos ganhar, por simples medo de arriscar.",
+        "autor": "William Shakespeare"
+      }
+    ],
+    "hora": {
+    "greeting": "Boa Noite",
+    "local": "Brasil, Brasilia"
+  }
+
+  }
+  

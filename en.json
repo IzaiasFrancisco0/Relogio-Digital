@@ -1,0 +1,26 @@
+{
+    "header": {
+      "title": "Quotes App",
+      "subtitle": "Inspiring quotes from famous authors"
+    },
+    "frases": [
+      {
+        "texto": "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.",
+        "autor": "Ada Lovelace"
+      },
+      {
+        "texto": "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.",
+        "autor": "Edsger Dijkstra"
+      },
+      {
+        "texto": "Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.",
+        "autor": "William Shakespeare"
+      }
+    
+    ],
+    "hora": {
+        "greeting": "Good Night",
+        "local": "Brazil, Brazilian"
+      }
+    
+}
