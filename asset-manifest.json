@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Relogio-Digital/static/css/main.a3ab952e.css",
+    "main.js": "/Relogio-Digital/static/js/main.5202b203.js",
+    "static/js/453.c48091c9.chunk.js": "/Relogio-Digital/static/js/453.c48091c9.chunk.js",
+    "index.html": "/Relogio-Digital/index.html",
+    "main.a3ab952e.css.map": "/Relogio-Digital/static/css/main.a3ab952e.css.map",
+    "main.5202b203.js.map": "/Relogio-Digital/static/js/main.5202b203.js.map",
+    "453.c48091c9.chunk.js.map": "/Relogio-Digital/static/js/453.c48091c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ab952e.css",
+    "static/js/main.5202b203.js"
+  ]
+}
